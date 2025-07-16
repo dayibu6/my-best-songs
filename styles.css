@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.video-container {
+    margin-top: 20px;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+    margin: 40px auto;
+    position: relative;
+}
